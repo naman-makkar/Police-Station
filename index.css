@@ -95,7 +95,7 @@ font-weight: 600;
 }
 
 .services-ps {
-  margin-left: 50px;
+  margin-left: 250px;
   margin-top: 100px;
   display: flex;
   align-items:center;
@@ -138,17 +138,6 @@ color: #123D16;
   height: 100px;
 }
 
-/* .updates-section {
-  margin-top: 100px;
-  text-align: center;
-  width: 2000px;
-  height: 1000px;
-
-}
-
-.updates-section-main {
-  display: flex;
-} */
 
 /* slideshow */
 
