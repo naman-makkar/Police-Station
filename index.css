@@ -241,3 +241,19 @@ color: #123D16;
         border-style:solid;
        
       }
+
+/* contact */
+.contact {
+  /* height: 100px; */
+  margin-top: 10px;
+  border: 10px solid rgb(86, 130, 102) ;
+  /* text-align: center; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 450px;
+  background-color: rgb(227, 249, 235);
+  width: 600px;
+  box-shadow: 0 0 15px 0px #c7c7c7;
+}
