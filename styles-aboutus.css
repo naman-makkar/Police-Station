@@ -1,0 +1,76 @@
+.login-header {
+    background-color: #C8F0DB;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 120px;
+    z-index: 1;
+  
+  }
+  
+  .logo img {
+    height: 110px;
+    border-radius: 10px;
+  
+    box-sizing: border-box;
+  
+  
+  
+  background: url(PatrolCar.png);
+  mix-blend-mode: darken;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter';
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 77px;
+  color: #123D16;
+  
+  }
+  
+  nav li {
+    margin: 0 10px;
+  }
+  
+  nav a {
+    color: #123D16;
+    text-decoration: none;
+    font-family: 'Bellota Text', display;
+  }
+
+body {
+    /* margin: 20px; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 10px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #d7e3fc;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+    border-radius: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.border-blue {
+    border: 1px dotted blue;
+}
